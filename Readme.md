@@ -1,0 +1,2 @@
+Typescript assignment
+Mohammad Hasan
