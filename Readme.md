@@ -1,2 +1,2 @@
-Typescript assignment
+Typescript assignment - 
 Mohammad Hasan
